@@ -40,6 +40,9 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
+
+  
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -9020,6 +9023,7 @@ h1, h2, h3, h4, h5,
     width: 360%;
     background: #ffce6c; }
   @media (max-width: 767.98px) {
+  
     .aside-stretch {
       background: transparent; }
       .aside-stretch:after {
@@ -9682,3 +9686,10 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+
+
+.body{
+  min-height: 50vh;
+}
